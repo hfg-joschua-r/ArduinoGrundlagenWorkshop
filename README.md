@@ -1,4 +1,4 @@
-# Arduino Grundlagen Workshop 2022
+# Arduino Grundlagen Workshop 2023
 
 Hier findet ihr den Code aus dem Workshop so wie weitere Links und Ressourcen.
 
